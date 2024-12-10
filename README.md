@@ -27,7 +27,7 @@ To run the game, clone this repository and compile the `Blackjack.cpp` file.
    ```
 3. Run the program:
    ```bash
-./blackjack
+   ./blackjack
    ```
 
 ### License
