@@ -1,6 +1,6 @@
 # Blackjack Game in C++
 
-This repository contains a simple implementation of the Blackjack game written in C++. The game is designed for practice purposes and demonstrates basic object-oriented programming concepts.
+This repository contains a simple implementation of the Blackjack game written in C++. The game is designed for practice purposes and demonstrates basic C++ programming concepts.
 
 ## Features
 
