@@ -21,3 +21,13 @@ To run the game, clone this repository and compile the `Blackjack.cpp` file.
 1. Clone this repository:
    ```bash
    git clone https://github.com/Leonabcd123/Blackjack.git
+Compile the code:
+bash
+Copy code
+g++ Blackjack.cpp -o blackjack
+Run the program:
+bash
+Copy code
+./blackjack
+License
+This project is for personal learning and practice. Feel free to modify and expand it!
